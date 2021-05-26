@@ -1,4 +1,5 @@
 # Strobe storm
 so this is a project initiation of Tinkerhub's Build From Home.
 we are doing project on a web app for music visualization.
-so on upcoming days we will be adding more info on this project
+our team id is BFH/recidx9EsvrkcK3FN/2021
+the team members are shamil o , faseel ali , mohammed aslam nk
